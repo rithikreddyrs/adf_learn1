@@ -1,0 +1,9 @@
+{
+	"name": "rgr-df-learning",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "1f33fed1-d469-4e1d-acbd-bd0c5038ed44",
+		"tenantId": "7396223f-38ab-4828-82b0-21a72b503b73"
+	}
+}
